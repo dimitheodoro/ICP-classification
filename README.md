@@ -1,2 +1,1 @@
-# CT-scan-preprocessing
-This code here proposes how to procees CT scans
+To train run python training_patches_MINORITY.py
